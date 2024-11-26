@@ -155,6 +155,10 @@ public class EmployeeController {
         System.out.println("Check defect fix or not");
         System.out.println("user story defect-fix");
     }
+     public void someChanges(){
+        System.out.println(100);
+        System.out.println(200);
+    }
 }
 
 
