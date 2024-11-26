@@ -150,6 +150,11 @@ public class EmployeeController {
     public void test(){
         System.out.println("Check defect fix or not");
     }
+
+    public void userStory(){
+        System.out.println("Check defect fix or not");
+        System.out.println("user story defect-fix");
+    }
 }
 
 
